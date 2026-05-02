@@ -2,7 +2,8 @@
 This project is designed to help a computer "see" when something moves in front of a camera. Instead of just recording everything, the program constantly looks for changes in the environment and flags only the moments when something actually happens.
 
 
-<img width="1920" height="1080" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/bcc7880d-f527-4c09-81c4-7fab4ce586aa" />
+<img width="935" height="727" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/5e07efb4-a982-41f3-933f-03994ac2cc11" />
+
 <img width="1802" height="860" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/76b1fd48-3236-4331-9449-7545dc3dec54" />
 
 
